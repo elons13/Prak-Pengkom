@@ -1,2 +1,2 @@
-## Others
-### Hanya berisi kode-kode yang dibuat for fun
+# Others
+Hanya berisi kode-kode yang dibuat for fun
