@@ -11,3 +11,7 @@ Soal praktikum beda-beda dan gak mungkin gua nyimpen soal praktikum gua, jadi ta
 ##### TUGAS PENDAHULUAN
 Untuk menghindari kejadian yang tidak diiinginkan, untuk seterusnya, file code untuk TP akan dicommit jika sudah melewati deadline
 Namun, akan ada clue untuk soal TP yang akan dicommit sebelum waktu tersebut tiba
+
+#### SUPPORT 
+sapa tau mau support mwheheehehe
+Gopay/Dana/ShopeePay : 085718995516
