@@ -1,13 +1,15 @@
 # Praktikum Pengenalan Komputasi
 **Segala hal yang berhubungan dengan Praktikum Pengenalan Komputasi ITB 2022** (dan lainnya)   
-Semoga terbantu meskipun mungkin kode ini bukan yang terbaik
+Semoga terbantu meskipun mungkin kode ini bukan yang terbaik  
+### Tip:
+Buat yang make VSCode, lu mungkin butuh ini https://code.visualstudio.com/docs/sourcecontrol/github  
+Atau lu bisa nyari-nyari aja kalo lu gak make VSCode caranya clone gimana
 
 ## IMPORTANT!!!
 ### **ITB USE ONLY!!**
-####  **REPOSITORY INI HANYA UNTUK REFERENSI DAN INGIN MENGETAHUI ALGORITMA SUDUT PANDANG LAIN, GUA TIDAK MENDUKUNG SAMA SEKALI TINDAKAN COPY-PASTE, LEBIH BAIK DICOBA SENDIRI DAN SILAHKAN KERJAKAN MASING-MASING!**
+####  **REPOSITORY INI HANYA UNTUK REFERENSI DAN INGIN MENGETAHUI ALGORITMA DARI SUDUT PANDANG LAIN, GUA TIDAK MENDUKUNG SAMA SEKALI TINDAKAN COPY-PASTE, LEBIH BAIK DICOBA SENDIRI DAN SILAHKAN KERJAKAN MASING-MASING!**
 * PRAKTIKUM  
 Soal praktikum beda-beda dan gak mungkin gua nyimpen soal praktikum gua, jadi tanpa soal mungkin gak kebayang maksudnya apa  
-
 
 * TUGAS PENDAHULUAN  
 Untuk menghindari kejadian yang tidak diiinginkan, untuk seterusnya, file code untuk TP akan dipush jika sudah melewati deadline  
