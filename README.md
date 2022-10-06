@@ -7,11 +7,11 @@ Semoga terbantu meskipun mungkin kode ini bukan yang terbaik
 ####  **REPOSITORY INI HANYA UNTUK REFERENSI DAN INGIN MENGETAHUI ALGORITMA SUDUT PANDANG LAIN, GUA TIDAK MENDUKUNG SAMA SEKALI TINDAKAN COPY-PASTE, LEBIH BAIK DICOBA SENDIRI DAN SILAHKAN KERJAKAN MASING-MASING!**
 * PRAKTIKUM  
 Soal praktikum beda-beda dan gak mungkin gua nyimpen soal praktikum gua, jadi tanpa soal mungkin gak kebayang maksudnya apa  
-Jawaban praktikum (versi gua dan soal sesi gua tentunya) akan dicommit jika sudah ada tugas pendahuluan untuk modul berikutnya
+
 
 * TUGAS PENDAHULUAN  
-Untuk menghindari kejadian yang tidak diiinginkan, untuk seterusnya, file code untuk TP akan dicommit jika sudah melewati deadline  
-Namun, akan ada clue untuk soal TP yang akan dicommit sebelum waktu tersebut tiba
+Untuk menghindari kejadian yang tidak diiinginkan, untuk seterusnya, file code untuk TP akan dipush jika sudah melewati deadline  
+Namun, akan ada clue untuk soal TP yang akan dipush sebelum waktu tersebut tiba
 
 ## ~~SUPPORT~~  
 ~~Sapa tau mau support mwheheehehe (mengharep nih)~~  
