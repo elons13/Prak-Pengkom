@@ -1,4 +1,5 @@
 # TUGAS PENDAHULUAN #1 PROBLEM 1
+# Test
 
 # KAMUS
 # harga_dasar_A : int
